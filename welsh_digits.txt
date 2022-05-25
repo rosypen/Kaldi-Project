@@ -1,0 +1,11 @@
+sero 0
+dim 0
+un 1
+dau 2
+tri 3
+pedwar 4
+pump 5
+chwech 6
+saith 7
+wyth 8
+naw 9
