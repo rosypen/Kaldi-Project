@@ -1,0 +1,95 @@
+# Breton
+# IPA pronunciation provided by https://en.wikipedia.org/wiki/Help:IPA/Breton
+# Orthography IPA Breton English
+
+b b
+#	bag	best
+c'h x
+#	sac'h	roughly like loch in Scottish English
+c'h ɣ
+#	troc'hañ	Spanish razgo
+d d
+#	don	doe
+f f
+#	fri	face
+ɡ g
+#	gad	got
+h h
+#	had	hot
+j ʒ
+#	jot	measure
+k k
+#	kazh	scan
+l l
+#	lann	lean
+lh ʎ
+#	kuilh	roughly like million
+m m
+#	mab	mother
+n n
+#	noz	need
+ng ŋ
+nk ŋ
+#	anken	camping
+gn ɲ
+#	kignez	roughly like canyon
+p p
+#	per	spouse
+r r
+#	roue	trilled r
+r ʁ
+#	roughly like loch (Scottish English) 'but voiced, like gh in Scottish Gaelic'
+s s
+#	skol	sack
+ch ʃ
+#	sachañ	shine
+t t
+#	tal	sty
+v v
+#	aval	view
+z z
+#	azen	zeal
+y j
+#	yod	yet
+gw w
+#	gwenn	wet
+ui ɥ
+#	kuit	like a simultaneous wet and yet
+
+Vowels
+monophthongs
+IPA	Examples	English approximation
+a	kas	trap
+ɑː	tad	bra
+e	boest	hey
+eː	per	
+ɛ	gell	best
+ɛː	berr	red
+i	pik	see
+iː	biz	bee
+o	pok	go
+oː	dor	law (RP and Australian)
+ɔ	korn	off
+ɔː	torr	dog
+y	butun	roughly like Scottish shoot
+yː	uvel	roughly like Scottish shoes, like German über
+ə	ebeul (regional)	roughly like bird (RP) (no r-colouring)
+ø	peulvan	roughly like bird (no r-colouring)
+øː	eur	roughly like herd (no r-colouring), like German schön
+œ	feurm	roughly like hurt (no r-colouring), like French neuf
+u	toull	too
+uː	tour	pool
+
+Diphthongs
+IPA	Examples	English approximation
+ai		eye
+oi		boy
+ɔʊ	botoù	follow
+ei	eil	ray
+au	glav	house
+ɔu	paour	follow
+eu	bev	eh-oo or ey-oo
+wɑ	koad	roughly like water
+we	boued	roughly like way
+ɥi	skuizh	roughly like we
+iu	liv	ee-oo

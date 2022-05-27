@@ -1,0 +1,59 @@
+# Welsh
+# IPA pronunciation provided by http://mylanguages.org/welsh_alphabet.php
+a a
+#   /a, ɑː/	as in cat (short), father (long)
+b b
+#   /b/	as in bat
+c k
+#   /k/	as in call
+ch x
+#	/x/	as in loch (Scottish)
+d d
+#	/d/	as in dove
+dd ð
+#	/ð/	as in this
+e ɛ
+#	/ɛ, eː/	as in bed (short), hey (long)
+# [Rosy] This e is actually pronounced as /ɛ/ in pedwar but /i/ in sero 
+f v
+#	/v/	as in vat
+ff f
+#	/f/	as in four
+g g
+#	/ɡ/	as in gate
+ng ŋ
+#	/ŋ/	as in thing
+h h
+#	/h/	as in hat
+i iː	
+# /ɪ, iː, j/	as in bit (short), machine (long)
+l l
+#	/l/	as in love
+ll ɬ
+#	/ɬ/	watch video below
+m m
+#	/m/	as in mat
+n n
+#	/n/	as in net
+o ɔ
+#	/ɔ, oː/	as in stove
+p p
+#	/p/	as in pet
+ph f	
+#	/f/	as in phone
+r r	
+#	/r/	as in rat (trilled)
+rh r̥
+#	/r̥/	as in pray (trilled)
+s s
+#	/s/	as in sat
+t t
+#	/t/	as in tan
+th θ
+#	/θ/	as in thin
+u ɨ̞
+#	/ɨ̞, ɨː/ (N), /ɪ, iː/(S)	as in bit (short), machine (long)
+w ʊ
+#	/ʊ, uː, w/	as in book (short), pool (long)
+y ɨ̞
+#	/ɨ̞, ɨː, ə/ (N)

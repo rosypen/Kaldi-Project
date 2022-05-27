@@ -1,0 +1,11 @@
+# Breton
+mann 0	
+unan 1	
+daou 2	
+tri	3
+pevar 4	
+pemp 5	
+c'hwec'h 6	
+seizh 7	
+eizh 8	
+nav 9

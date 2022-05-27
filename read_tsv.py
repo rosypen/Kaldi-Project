@@ -67,7 +67,8 @@ def load_data(file_path:str) -> pd.DataFrame:
 def speakers_as_string(speakers:dict):
     result = "Speakers\nGender > Age\n"
     for gender, age_dict in speakers.items():
-        result += str(gender) + "\n"
+        total = sum([count for count in age_dict.values()])
+        result += str(gender) + " ({})\n".format(total)
         for age, count in age_dict.items():
             result += "> {}: {}".format(age, count) + "\n"
     return result
