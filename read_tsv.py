@@ -18,12 +18,14 @@ def get_word_to_digit_dict(file_path:str) -> dict:
     digits_file = open(file_path)
     word_to_digit = dict()
     for line in digits_file:
+        if line.startswith("#"):
+            continue
         word, digit = line.strip().split()
         word_to_digit[word] = int(digit)
     digits_file.close()
     return word_to_digit
 
-def load_data(file_path:str) -> pd.DataFrame:
+def load_data(tsv_file:str, digits_file:str) -> pd.DataFrame:
     '''
     This function takes in a file path to a tsv file and returns a dataframe that has
     client_id
@@ -36,11 +38,11 @@ def load_data(file_path:str) -> pd.DataFrame:
     segment
     '''
     # Create digit dictionary
-    welsh_to_digit = get_word_to_digit_dict('welsh_digits.txt')
+    welsh_to_digit = get_word_to_digit_dict(digits_file)
 
     # Read TSV file
-    logging.info("Loading data from '{}'".format(file_path))
-    df = pd.read_csv(file_path,sep='\t', header=0)
+    logging.info("Loading data from '{}'".format(tsv_file))
+    df = pd.read_csv(tsv_file,sep='\t', header=0)
     df['digit'] = pd.NaT
     logging.info("Approximately {} speakers in the data.".format(len(df)//10))
     # Speakers = { gender: 
@@ -73,5 +75,24 @@ def speakers_as_string(speakers:dict):
             result += "> {}: {}".format(age, count) + "\n"
     return result
 
+def dump_audio_partitions(file_path:str, outfile_path:str):
+    '''
+    This function takes in a file path to a tsv file and writes out the audio file names to a
+    text file.
+    '''
+    # Read TSV file
+    logging.info("Loading data from '{}'".format(file_path))
+    df = pd.read_csv(file_path,sep='\t', header=0)
+
+    logging.info("Writing audio file names to {}".format(outfile_path))
+    outfile = open(outfile_path, 'w')
+
+    # Write path
+    for ind in df.index:
+        mp3_file = df['path'][ind]
+        wav_file = mp3_file.replace(".mp3", ".wav")
+        print(wav_file, file=outfile)
+
 if __name__ == "__main__":
-    dev_df = load_data('common-voice-digits/cy/dev.tsv')
+    train_df = load_data('datasets/cy/train.tsv', 'datasets/cy/welsh_digits.txt')
+    # dump_audio_partitions('datasets/cy/test.tsv', 'datasets/cy/test_files.txt')
