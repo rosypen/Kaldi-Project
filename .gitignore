@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore the original audio files.
+datasets/br/clips/
+datasets/cy/clips/
