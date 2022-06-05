@@ -37,7 +37,11 @@ def main(lang:str):
           # Grab word for this clip from the dataframe
           mp3_name = clip_name.replace(".wav\n", ".mp3")
           result_df = train_df[train_df['path'] == mp3_name]
-          word = result_df.at[0,'sentence']
+          try:
+               word = result_df.at[0,'sentence']
+          except:
+               logging.info("Couldn't find the word for {} in the tsv file".format(mp3_name))
+               continue
 
           # Add annotations to the eaf object
           # NOTE: add_annotation(id_tier, start, end, value='', svg_ref=None); start/end timestamps need to be in miliseconds
