@@ -5,11 +5,67 @@
 # We could potentially have tier 0 be the orthorgraphic transcription and tier 1 be the corresponding digit
 
 from read_tsv import *
-import pympi
 
-import logging
+import logging, wave, json
+
+import pympi
+from vosk import Model, KaldiRecognizer, SetLogLevel
+import Word as word
 
 logging.basicConfig(level = logging.INFO)
+# Disable logs for vosk
+SetLogLevel(-1)
+
+def get_timestamps(wav_file:str)->word.Word:
+     '''
+     Given a wave file path, this method actually returns a single Word that was spoken in the audio.
+     The word looks something like:
+
+     {'conf': 0.84, # confidence
+     'end': 4.5, # end time
+     'start': 4.05, # start time
+     'word': 'test'},
+
+     This is information is extracted by using a small model trained on German from Vosk.
+     The predicted transcribed word itself is not that important to us right now.
+
+     We want the start and end times.
+
+     Most of this code is from the Vosk Getting Started template
+     https://towardsdatascience.com/speech-recognition-with-timestamps-934ede4234b2
+     '''
+     model_path = "vosk-model-small-de-0.15"
+     audio_filename = wav_file
+
+     model = Model(model_path)
+     wf = wave.open(audio_filename, "rb")
+     rec = KaldiRecognizer(model, wf.getframerate())
+     rec.SetWords(True)
+
+     # get the list of JSON dictionaries, tbh I'm not sure if we even need to do this for one word.
+     results = []
+     # recognize speech using vosk model
+     while True:
+          data = wf.readframes(4000)
+          if len(data) == 0:
+               break
+          if rec.AcceptWaveform(data):
+               part_result = json.loads(rec.Result())
+               results.append(part_result)
+     part_result = json.loads(rec.FinalResult())
+     results.append(part_result)
+
+     wf.close()
+     
+     # Return the last non-empty "result/word" that was detected from the KaldiRecognizer
+     for i in range(len(results) -1, -1, -1):
+          final_result = results[i]
+          if len(final_result) == 1:
+               # Apparently this indicates the result is empty
+               continue
+          info = word.Word(final_result['result'][0])
+          return info
+     # NOTE: Maybe we should return an empty word or something if all results are empty.
 
 def main(lang:str):
      '''
@@ -29,6 +85,9 @@ def main(lang:str):
      lines = train_clips.readlines()
      missing = 0
      for clip_name in lines:
+          wav_file = 'datasets/{}/transcribed/{}'.format(lang, clip_name.strip())
+          timestamp_results = get_timestamps(wav_file)
+
           eaf_name = clip_name.replace(".wav\n", ".eaf")
           eaf_file = 'datasets/{}/transcribed/{}'.format(lang, eaf_name)
 
@@ -45,16 +104,12 @@ def main(lang:str):
           except Exception as e:
                logging.info("Couldn't find the word for {} in the tsv file".format(mp3_name))
                missing +=1
+               continue
 
           # Add annotations to the eaf object
           # NOTE: add_annotation(id_tier, start, end, value='', svg_ref=None); start/end timestamps need to be in miliseconds
-          # TODO: Find where the utterance starts in the audio file.
           eaf.add_tier('Phrase') # I think I am also supposed to add a linguistic type??? but not sure what those are.
-          eaf.add_annotation('Phrase', 0, 1000, word)
-          # So ideally, we would also have each sound/letter in the word annotated to the millisecond
-          # eaf.add_tier('Segment')
-          # for sound in word:
-          #    eaf.add_annotation('Segment', start, end, sound)
+          eaf.add_annotation('Phrase', timestamp_results.start, timestamp_results.end, word)
           
           # Write the eaf object to a file.
           eaf.to_file(eaf_file)
