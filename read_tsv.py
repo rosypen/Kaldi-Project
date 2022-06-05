@@ -38,7 +38,7 @@ def load_data(tsv_file:str, digits_file:str) -> pd.DataFrame:
     segment
     '''
     # Create digit dictionary
-    welsh_to_digit = get_word_to_digit_dict(digits_file)
+    word_to_digit = get_word_to_digit_dict(digits_file)
 
     # Read TSV file
     logging.info("Loading data from '{}'".format(tsv_file))
@@ -53,7 +53,9 @@ def load_data(tsv_file:str, digits_file:str) -> pd.DataFrame:
     # Add digit column and collect speaker data
     for ind in df.index:
         word = df['sentence'][ind]
-        digit = welsh_to_digit[word]
+        digit = word_to_digit.get(word, -1)
+        if digit < 0:
+            continue
         df['digit'][ind] = digit
         # This is kind of a hack, roughly every 10 lines is a new speaker but that
         # is an assumption I am making based on the data.
@@ -75,7 +77,7 @@ def speakers_as_string(speakers:dict):
             result += "> {}: {}".format(age, count) + "\n"
     return result
 
-def dump_audio_partitions(file_path:str, outfile_path:str):
+def dump_audio_partitions(file_path:str, outfile_path:str, digits_file:str):
     '''
     This function takes in a file path to a tsv file and writes out the audio file names to a
     text file.
@@ -87,12 +89,18 @@ def dump_audio_partitions(file_path:str, outfile_path:str):
     logging.info("Writing audio file names to {}".format(outfile_path))
     outfile = open(outfile_path, 'w')
 
+    # Create digit dictionary
+    word_to_digit = get_word_to_digit_dict(digits_file)
+
     # Write path
     for ind in df.index:
+        word = df['sentence'][ind]
+        if str(word).strip() not in word_to_digit:
+            continue
         mp3_file = df['path'][ind]
         wav_file = mp3_file.replace(".mp3", ".wav")
         print(wav_file, file=outfile)
 
 if __name__ == "__main__":
-    train_df = load_data('datasets/cy/train.tsv', 'datasets/cy/welsh_digits.txt')
-    # dump_audio_partitions('datasets/cy/test.tsv', 'datasets/cy/test_files.txt')
+    # train_df = load_data('datasets/de/tsv/train.tsv', 'datasets/de/german_digits.txt')
+    dump_audio_partitions('datasets/de/tsv/train.tsv', 'datasets/de/train_files.txt', "datasets/de/german_digits.txt")
