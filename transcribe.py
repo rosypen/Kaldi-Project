@@ -16,6 +16,18 @@ logging.basicConfig(level = logging.INFO)
 # Disable logs for vosk
 SetLogLevel(-1)
 
+def get_wav_duration(f):
+     frames = f.getnframes()
+     rate = f.getframerate()
+     duration = frames / float(rate)
+     # print(duration)
+     return duration
+
+def duration_is_zero(result_dict):
+     start = float(result_dict['start'])
+     end = float(result_dict['end'])
+     return end - start < 0.5
+
 def get_timestamps(wav_file:str)->word.Word:
      '''
      Given a wave file path, this method actually returns a single Word that was spoken in the audio.
@@ -54,18 +66,22 @@ def get_timestamps(wav_file:str)->word.Word:
                results.append(part_result)
      part_result = json.loads(rec.FinalResult())
      results.append(part_result)
-
-     wf.close()
      
+     # So by default I'm just going to assume that for all utterances the word starts at the first second and ends by the end of the clip.
+     audio_end = get_wav_duration(wf)
+     default = word.Word({'conf':0.0, 'start':'1', 'end':str(audio_end), 'word':""})
+     wf.close()
+
      # Return the last non-empty "result/word" that was detected from the KaldiRecognizer
      for i in range(len(results) -1, -1, -1):
           final_result = results[i]
-          if len(final_result) == 1:
+          if len(final_result) == 1 or duration_is_zero(final_result['result'][0]):
                # Apparently this indicates the result is empty
                continue
           info = word.Word(final_result['result'][0])
           return info
-     # NOTE: Maybe we should return an empty word or something if all results are empty.
+     # If no word was found return the default
+     return default
 
 def main(lang:str):
      '''
@@ -87,6 +103,8 @@ def main(lang:str):
      for clip_name in lines:
           wav_file = 'datasets/{}/transcribed/{}'.format(lang, clip_name.strip())
           timestamp_results = get_timestamps(wav_file)
+          start = int(float(timestamp_results.start) *1000)
+          end = int(float(timestamp_results.end) *1000)
 
           eaf_name = clip_name.replace(".wav\n", ".eaf")
           eaf_file = 'datasets/{}/transcribed/{}'.format(lang, eaf_name)
@@ -109,11 +127,10 @@ def main(lang:str):
           # Add annotations to the eaf object
           # NOTE: add_annotation(id_tier, start, end, value='', svg_ref=None); start/end timestamps need to be in miliseconds
           eaf.add_tier('Phrase') # I think I am also supposed to add a linguistic type??? but not sure what those are.
-          eaf.add_annotation('Phrase', timestamp_results.start, timestamp_results.end, word)
+          eaf.add_annotation('Phrase', start, end, word)
           
           # Write the eaf object to a file.
           eaf.to_file(eaf_file)
-          break
      logging.info("Missing {} transcriptions of {} files".format(missing, len(lines)))
 
 if __name__ == "__main__":
