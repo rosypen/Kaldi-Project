@@ -119,6 +119,7 @@ def main(lang:str):
           i = result_df.index[0]
           try:
                word = result_df.at[i,'sentence']
+               digit = result_df.at[i, 'digit']
           except Exception as e:
                logging.info("Couldn't find the word for {} in the tsv file".format(mp3_name))
                missing +=1
@@ -128,6 +129,8 @@ def main(lang:str):
           # NOTE: add_annotation(id_tier, start, end, value='', svg_ref=None); start/end timestamps need to be in miliseconds
           eaf.add_tier('Phrase') # I think I am also supposed to add a linguistic type??? but not sure what those are.
           eaf.add_annotation('Phrase', start, end, word)
+          eaf.add_tier('Digit') # I think I am also supposed to add a linguistic type??? but not sure what those are.
+          eaf.add_annotation('Digit', start, end, str(digit))
           
           # Write the eaf object to a file.
           eaf.to_file(eaf_file)
