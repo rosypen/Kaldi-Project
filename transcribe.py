@@ -7,6 +7,7 @@
 from read_tsv import *
 
 import logging, wave, json
+from os.path import exists
 
 import pympi
 from vosk import Model, KaldiRecognizer, SetLogLevel
@@ -69,7 +70,7 @@ def get_timestamps(wav_file:str)->word.Word:
      
      # So by default I'm just going to assume that for all utterances the word starts at the first second and ends by the end of the clip.
      audio_end = get_wav_duration(wf)
-     default = word.Word({'conf':0.0, 'start':'1', 'end':str(audio_end), 'word':""})
+     default = word.Word({'conf':0.0, 'start':'0.5', 'end':str(audio_end), 'word':""})
      wf.close()
 
      # Return the last non-empty "result/word" that was detected from the KaldiRecognizer
@@ -88,10 +89,10 @@ def main(lang:str):
      lang: should be one of [cy|br|de]
      '''
      train_tsv = 'datasets/{}/tsv/train.tsv'.format(lang)
-     digit_file = 'datasets/{}/welsh_digits.txt'.format(lang)
+     digit_file = 'datasets/{}/digits.txt'.format(lang)
      train_df = load_data(train_tsv, digit_file)
 
-     # Train_files.txt is just a text file that has the names of all the audio files in the train set.
+     # Train_files.txt is just a text file that has the names of all the audio files in the train set on one line each.
      # Eg. common_voice_cy_22287428.wav
      # The eaf file will have the same name except .eaf instead of .wav
      train_file = 'datasets/{}/train_files.txt'.format(lang)
@@ -102,12 +103,16 @@ def main(lang:str):
      missing = 0
      for clip_name in lines:
           wav_file = 'datasets/{}/transcribed/{}'.format(lang, clip_name.strip())
-          timestamp_results = get_timestamps(wav_file)
-          start = int(float(timestamp_results.start) *1000)
-          end = int(float(timestamp_results.end) *1000)
+          if not exists(wav_file):
+               missing +=1
+               continue
 
           eaf_name = clip_name.replace(".wav\n", ".eaf")
           eaf_file = 'datasets/{}/transcribed/{}'.format(lang, eaf_name)
+
+          timestamp_results = get_timestamps(wav_file)
+          start = int(float(timestamp_results.start) *1000)
+          end = int(float(timestamp_results.end) *1000)
 
           # Create an eaf object
           eaf = pympi.Elan.Eaf()
