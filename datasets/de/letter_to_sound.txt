@@ -1,0 +1,124 @@
+# German
+# IPA pronunciation provided by https://en.wikipedia.org/wiki/Help:IPA/Standard_German
+# Consonants
+# IPA	Examples		English approximation
+b b
+#   bei			ball
+ch ç
+#	ich, durch		hue
+d d
+#	dann; Kleid 	done
+f f
+#	für, von,		fuss
+g ɡ
+#	gut; Tag		guest
+h h
+#	hat			hut
+j j
+#	Jahr, Yo-Yo		yard
+k k
+#	kann, cremen	cold
+l l
+#	Leben			last
+el l̩
+#	Mantel		bottle
+m m
+#	Mann			must
+em m̩
+#	großem		rhythm
+n n
+#	Name			not
+en n̩
+#	beiden		sudden
+ng ŋ
+#	lang			long
+p p
+#	Person,		puck
+pf pf
+#	Pfeffer		cupful
+r ʁ
+# r	reden	      	rouge
+s s
+#	lassen, groß	fast
+sch ʃ
+#	schon, Stadt	shall
+t t
+#	Tag, Stadt; 	tall
+z ts
+#	Zeit, Platz, 	cats
+tsch tʃ
+#	Matsch, 	match
+w v
+#	was, Vase		vanish
+ch x
+#	nach			Scottish loch
+s z
+#	Sie, diese		zebra
+# ʔ				uh-oh!
+#
+# Vowels
+# IPA	Examples		English approximation
+a a
+#	alles, Kalender	father, but short
+a aː
+#	aber, sah, Staat	father
+e ɛ
+#	Ende, hätte	bet
+ä ɛː
+#	spät, wählen[10]	RP hair
+e eː
+#	eben, gehen, Meer	mate
+i ɪ
+#	ist	sit
+ie iː
+#	liebe, Berlin, ihm	seed
+o ɔ
+#	kommen	off
+o oː
+#	oder, hohe, Boot	story
+ö œ
+#	öffnen	somewhat like hurt
+öh øː
+#	Österreich, Möhre, adieu	somewhat like heard
+u ʊ
+#	und	push
+u uː
+#	Hut, Kuh	true
+ü ʏ
+#	müssen, Ypsilon	somewhat like cute
+ü yː
+#	über, Mühe, psychisch	somewhat like few
+#
+# Diphthongs
+# IPA	Examples		English approximation
+ei aɪ
+#	ein, Kaiser, Haydn, Verleih, Speyer	high
+au aʊ
+#	auf	vow
+# ɔʏ	Euro, Häuser	choice
+#
+# Reduced Vowels
+# IPA	Examples		English approximation
+# ɐ	ər	immer       frustration
+# ə	Name			balance
+#
+# Semivowels
+# IPA	Examples		English approximation
+# ɐ̯	r	Uhr		sofa
+# i̯	Studie		yard
+# o̯	Pointe		quite
+# u̯	Linguist, Gouache	would
+# y̑	Etui			somewhat like evaluation
+#
+# Shortened vowels
+# IPA	Examples		English approximation
+# ã	engagieren		French chanson
+# ɛ̃	impair		French vingt-et-un
+# e	Element		roughly like dress
+# i	Italien		seat
+# o	originell		story, but short
+# õ	foncé			French Mont Blanc
+# œ̃	Lundist		French vingt-et-un
+# ø	Ökonom	roughly like hurt
+# u	Universität, Souvenir	truth
+# y	Psychologie	like meet, but with the lips rounded
