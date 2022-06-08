@@ -1,9 +1,10 @@
 # Breton
 # IPA pronunciation provided by https://en.wikipedia.org/wiki/Help:IPA/Breton
 # Orthography IPA Breton English
-
+#
 b b
 #	bag	best
+c c
 c'h x
 #	sac'h	roughly like loch in Scottish English
 c'h ɣ
@@ -52,44 +53,76 @@ z z
 y j
 #	yod	yet
 gw w
+v v
+w w
 #	gwenn	wet
 ui ɥ
 #	kuit	like a simultaneous wet and yet
-
-Vowels
-monophthongs
-IPA	Examples	English approximation
-a	kas	trap
-ɑː	tad	bra
-e	boest	hey
-eː	per	
-ɛ	gell	best
-ɛː	berr	red
-i	pik	see
-iː	biz	bee
-o	pok	go
-oː	dor	law (RP and Australian)
-ɔ	korn	off
-ɔː	torr	dog
-y	butun	roughly like Scottish shoot
-yː	uvel	roughly like Scottish shoes, like German über
-ə	ebeul (regional)	roughly like bird (RP) (no r-colouring)
-ø	peulvan	roughly like bird (no r-colouring)
-øː	eur	roughly like herd (no r-colouring), like German schön
-œ	feurm	roughly like hurt (no r-colouring), like French neuf
-u	toull	too
-uː	tour	pool
-
-Diphthongs
-IPA	Examples	English approximation
-ai		eye
-oi		boy
-ɔʊ	botoù	follow
-ei	eil	ray
-au	glav	house
-ɔu	paour	follow
-eu	bev	eh-oo or ey-oo
-wɑ	koad	roughly like water
-we	boued	roughly like way
-ɥi	skuizh	roughly like we
-iu	liv	ee-oo
+#
+# Vowels
+# monophthongs
+# IPA	Examples	English approximation
+a a	
+#	kas	trap
+a ɑː	
+#	tad	bra
+e e	
+#	boest	hey
+e eː	
+#	per	
+e ɛ	
+#	gell	best
+e ɛː	
+# 	berr	red
+i i	
+# 	pik	see
+i iː	
+#	biz	bee
+o o	
+#	pok	go
+o oː	
+#	dor	law (RP and Australian)
+o ɔ	
+#	korn	off
+o ɔː	
+#	torr	dog
+u y	
+#	butun	roughly like Scottish shoot
+u yː	
+#	uvel	roughly like Scottish shoes, like German über
+eu ə	
+#	ebeul (regional)	roughly like bird (RP) (no r-colouring)
+eu ø	
+#	peulvan	roughly like bird (no r-colouring)
+eu øː	
+#	eur	roughly like herd (no r-colouring), like German schön
+ou œ	
+#	feurm	roughly like hurt (no r-colouring), like French neuf
+ou u	
+#	toull	too
+u uː	
+#	tour	pool
+# Diphthongs
+# IPA	Examples	English approximation
+ai ai		
+#	eye
+oy oi		
+#	boy
+où ɔʊ	
+#	botoù	follow
+ei ei	
+#	eil	ray
+av au	
+#	glav	house
+aou ɔu	
+#	paour	follow
+ev eu	
+#	bev	eh-oo or ey-oo
+oa wɑ	
+#	koad	roughly like water
+oue we	
+#	boued	roughly like way
+ui ɥi	
+#	skuizh	roughly like we
+iv iu	
+#	liv	ee-oo

@@ -1,0 +1,12 @@
+common_voice_cy_22278619.wav vier
+common_voice_cy_22278620.wav vier nein
+common_voice_cy_22278621.wav fünf
+common_voice_cy_22278622.wav fünf
+common_voice_cy_22278623.wav drei
+common_voice_cy_22278654.wav fünf
+common_voice_cy_22278655.wav neun
+common_voice_cy_22278656.wav fünf
+common_voice_cy_22278657.wav drei
+common_voice_cy_22278658.wav vier
+common_voice_cy_22283381.wav neun
+common_voice_cy_22283384.wav zwei

@@ -1,0 +1,1718 @@
+common_voice_de_21894091.wav drei nein 
+
+common_voice_de_21894092.wav sechs acht acht 
+
+common_voice_de_21894094.wav nein 
+
+common_voice_de_21894095.wav fünf 
+
+common_voice_de_21894096.wav neun 
+
+common_voice_de_21894097.wav vier 
+
+common_voice_de_21894098.wav zwei nein 
+
+common_voice_de_21894100.wav sieben 
+
+common_voice_de_21894106.wav acht 
+
+common_voice_de_21894108.wav eins 
+
+common_voice_de_21894367.wav sechs 
+
+common_voice_de_21894369.wav nein 
+
+common_voice_de_21894370.wav sieben 
+
+common_voice_de_21894386.wav zwei 
+
+common_voice_de_21894389.wav neun 
+
+common_voice_de_21894390.wav eins 
+
+common_voice_de_21894401.wav fünf 
+
+common_voice_de_21894402.wav vier 
+
+common_voice_de_21894403.wav acht 
+
+common_voice_de_21894404.wav drei 
+
+common_voice_de_21894592.wav sechs 
+
+common_voice_de_21894594.wav eins 
+
+common_voice_de_21894595.wav nein 
+
+common_voice_de_21894596.wav drei 
+
+common_voice_de_21894602.wav zwei drei 
+
+common_voice_de_21894606.wav acht 
+
+common_voice_de_21894608.wav sieben 
+
+common_voice_de_21894612.wav vier 
+
+common_voice_de_21894613.wav neun 
+
+common_voice_de_21894615.wav fünf 
+
+common_voice_de_21894664.wav eins 
+
+common_voice_de_21894666.wav drei 
+
+common_voice_de_21894667.wav nein 
+
+common_voice_de_21894669.wav fünf 
+
+common_voice_de_21894670.wav zwei drei 
+
+common_voice_de_21894674.wav sechs 
+
+common_voice_de_21894676.wav sieben 
+
+common_voice_de_21894679.wav vier 
+
+common_voice_de_21894680.wav acht 
+
+common_voice_de_21894681.wav neun 
+
+common_voice_de_21894779.wav sieben 
+
+common_voice_de_21894780.wav eins 
+
+common_voice_de_21894781.wav fünf 
+
+common_voice_de_21894786.wav sechs 
+
+common_voice_de_21894787.wav drei 
+
+common_voice_de_21894788.wav acht 
+
+common_voice_de_21894794.wav nein 
+
+common_voice_de_21894795.wav neun 
+
+common_voice_de_21894796.wav zwei drei 
+
+common_voice_de_21894797.wav vier 
+
+common_voice_de_21895584.wav drei drei 
+
+common_voice_de_21895585.wav sechs 
+
+common_voice_de_21895587.wav zwei drei 
+
+common_voice_de_21895588.wav neun 
+
+common_voice_de_21895589.wav nein 
+
+common_voice_de_21895590.wav sieben 
+
+common_voice_de_21895591.wav vier 
+
+common_voice_de_21895592.wav fünf 
+
+common_voice_de_21895593.wav eins 
+
+common_voice_de_21895594.wav acht 
+
+common_voice_de_21895768.wav vier 
+
+common_voice_de_21895770.wav neun 
+
+common_voice_de_21895771.wav sechs 
+
+common_voice_de_21895772.wav sieben 
+
+common_voice_de_21895773.wav eins 
+
+common_voice_de_21895774.wav drei 
+
+common_voice_de_21895777.wav nein 
+
+common_voice_de_21895778.wav fünf 
+
+common_voice_de_21895779.wav drei 
+
+common_voice_de_21895780.wav acht 
+
+common_voice_de_21896147.wav fünf 
+
+common_voice_de_21896150.wav acht 
+
+common_voice_de_21896151.wav drei 
+
+common_voice_de_21896157.wav zwei 
+
+common_voice_de_21896158.wav sechs 
+
+common_voice_de_21896159.wav nein 
+
+common_voice_de_21896160.wav sieben 
+
+common_voice_de_21896167.wav neun 
+
+common_voice_de_21896168.wav vier 
+
+common_voice_de_21896170.wav eins 
+
+common_voice_de_21898526.wav drei 
+
+common_voice_de_21898527.wav fünf 
+
+common_voice_de_21898528.wav acht 
+
+common_voice_de_21898529.wav neun 
+
+common_voice_de_21898551.wav sechs 
+
+common_voice_de_21898552.wav zwei drei 
+
+common_voice_de_21898553.wav vier nein 
+
+common_voice_de_21898572.wav acht sieben 
+
+common_voice_de_21898576.wav eins 
+
+common_voice_de_21898580.wav nein 
+
+common_voice_de_21899960.wav sechs 
+
+common_voice_de_21899961.wav nein 
+
+common_voice_de_21899962.wav neun 
+
+common_voice_de_21899965.wav vier drei 
+
+common_voice_de_21899981.wav drei eins 
+
+common_voice_de_21899983.wav fünf 
+
+common_voice_de_21899984.wav sieben 
+
+common_voice_de_21900010.wav zwei sieben 
+
+common_voice_de_21900011.wav drei nein 
+
+common_voice_de_21900013.wav acht nein 
+
+common_voice_de_21900620.wav neun 
+
+common_voice_de_21900621.wav eins 
+
+common_voice_de_21900622.wav sieben 
+
+common_voice_de_21900623.wav vier 
+
+common_voice_de_21900625.wav sechs 
+
+common_voice_de_21900628.wav nein 
+
+common_voice_de_21900632.wav zwei nein 
+
+common_voice_de_21900640.wav acht 
+
+common_voice_de_21900643.wav fünf 
+
+common_voice_de_21900646.wav drei nein 
+
+common_voice_de_21900700.wav drei 
+
+common_voice_de_21900701.wav eins 
+
+common_voice_de_21900702.wav acht 
+
+common_voice_de_21900704.wav sechs 
+
+common_voice_de_21900705.wav fünf 
+
+common_voice_de_21900706.wav vier 
+
+common_voice_de_21900709.wav zwei 
+
+common_voice_de_21900780.wav neun 
+
+common_voice_de_21900781.wav sieben 
+
+common_voice_de_21900783.wav nein 
+
+common_voice_de_21900905.wav acht vier 
+
+common_voice_de_21900906.wav fünf 
+
+common_voice_de_21900907.wav drei drei 
+
+common_voice_de_21900908.wav sechs 
+
+common_voice_de_21900909.wav neun 
+
+common_voice_de_21900916.wav eins 
+
+common_voice_de_21900917.wav nein 
+
+common_voice_de_21900918.wav sieben 
+
+common_voice_de_21900919.wav zwei 
+
+common_voice_de_21900928.wav acht 
+
+common_voice_de_21904123.wav sechs 
+
+common_voice_de_21904128.wav acht 
+
+common_voice_de_21904130.wav neun 
+
+common_voice_de_21904131.wav sieben 
+
+common_voice_de_21904134.wav fünf 
+
+common_voice_de_21904135.wav zwei drei 
+
+common_voice_de_21904136.wav vier 
+
+common_voice_de_21904138.wav nein 
+
+common_voice_de_21904139.wav drei drei 
+
+common_voice_de_21904141.wav eins 
+
+common_voice_de_21906610.wav vier 
+
+common_voice_de_21906611.wav sieben 
+
+common_voice_de_21906612.wav zwei 
+
+common_voice_de_21906613.wav drei 
+
+common_voice_de_21906615.wav fünf 
+
+common_voice_de_21906616.wav neun 
+
+common_voice_de_21906617.wav eins 
+
+common_voice_de_21906621.wav acht 
+
+common_voice_de_21906622.wav nein 
+
+common_voice_de_21906624.wav sechs 
+
+common_voice_de_21909499.wav acht 
+
+common_voice_de_21909501.wav fünf 
+
+common_voice_de_21909502.wav zwei 
+
+common_voice_de_21909503.wav drei drei 
+
+common_voice_de_21909516.wav eins 
+
+common_voice_de_21909518.wav nein 
+
+common_voice_de_21909519.wav neun 
+
+common_voice_de_21909540.wav sechs 
+
+common_voice_de_21909541.wav sieben 
+
+common_voice_de_21909542.wav vier 
+
+common_voice_de_21909879.wav fünf 
+
+common_voice_de_21909880.wav vier 
+
+common_voice_de_21909881.wav nein 
+
+common_voice_de_21909882.wav drei 
+
+common_voice_de_21909883.wav neun 
+
+common_voice_de_21909890.wav sieben 
+
+common_voice_de_21909892.wav acht 
+
+common_voice_de_21909893.wav sechs 
+
+common_voice_de_21909910.wav eins 
+
+common_voice_de_21909912.wav drei 
+
+common_voice_de_21910766.wav drei 
+
+common_voice_de_21910767.wav neun 
+
+common_voice_de_21910768.wav nein 
+
+common_voice_de_21910774.wav fünf 
+
+common_voice_de_21910775.wav acht 
+
+common_voice_de_21910776.wav vier 
+
+common_voice_de_21910777.wav zwei vier 
+
+common_voice_de_21910789.wav sieben 
+
+common_voice_de_21910790.wav eins 
+
+common_voice_de_21910792.wav sechs 
+
+common_voice_de_21910969.wav sechs 
+
+common_voice_de_21910970.wav neun 
+
+common_voice_de_21910971.wav sieben 
+
+common_voice_de_21911756.wav acht 
+
+common_voice_de_21911757.wav vier 
+
+common_voice_de_21911758.wav zwei 
+
+common_voice_de_21911759.wav drei 
+
+common_voice_de_21911783.wav eins 
+
+common_voice_de_21911785.wav nein 
+
+common_voice_de_21911786.wav fünf 
+
+common_voice_de_21916828.wav fünf 
+
+common_voice_de_21916829.wav eins 
+
+common_voice_de_21916830.wav drei 
+
+common_voice_de_21916831.wav sechs 
+
+common_voice_de_21916833.wav nein 
+
+common_voice_de_21916836.wav acht 
+
+common_voice_de_21916837.wav neun 
+
+common_voice_de_21916843.wav vier acht 
+
+common_voice_de_21916844.wav zwei sechs 
+
+common_voice_de_21916845.wav sieben 
+
+common_voice_de_21917027.wav zwei 
+
+common_voice_de_21917030.wav sieben 
+
+common_voice_de_21917032.wav eins 
+
+common_voice_de_21917035.wav nein 
+
+common_voice_de_21917036.wav sechs 
+
+common_voice_de_21917037.wav fünf 
+
+common_voice_de_21917053.wav neun 
+
+common_voice_de_21917054.wav vier 
+
+common_voice_de_21917056.wav acht 
+
+common_voice_de_21917058.wav drei 
+
+common_voice_de_21917895.wav sechs 
+
+common_voice_de_21917896.wav neun 
+
+common_voice_de_21917898.wav sieben 
+
+common_voice_de_21917899.wav fünf 
+
+common_voice_de_21917900.wav zwei 
+
+common_voice_de_21917901.wav nein 
+
+common_voice_de_21917903.wav vier 
+
+common_voice_de_21917904.wav drei 
+
+common_voice_de_21917907.wav acht 
+
+common_voice_de_21917908.wav eins 
+
+common_voice_de_21918749.wav vier 
+
+common_voice_de_21918752.wav sieben 
+
+common_voice_de_21918753.wav sechs 
+
+common_voice_de_21918755.wav drei 
+
+common_voice_de_21918871.wav fünf 
+
+common_voice_de_21918872.wav drei 
+
+common_voice_de_21918873.wav neun 
+
+common_voice_de_21918874.wav sechs 
+
+common_voice_de_21918880.wav nein 
+
+common_voice_de_21918881.wav vier 
+
+common_voice_de_21918884.wav eins 
+
+common_voice_de_21918890.wav sieben 
+
+common_voice_de_21918892.wav acht 
+
+common_voice_de_21918893.wav zwei drei 
+
+common_voice_de_21919015.wav eins 
+
+common_voice_de_21919016.wav neun 
+
+common_voice_de_21919017.wav fünf 
+
+common_voice_de_21919034.wav acht 
+
+common_voice_de_21919035.wav nein 
+
+common_voice_de_21919036.wav zwei drei 
+
+common_voice_de_21922808.wav nein 
+
+common_voice_de_21922812.wav acht 
+
+common_voice_de_21922814.wav fünf 
+
+common_voice_de_21922820.wav sieben 
+
+common_voice_de_21922821.wav vier 
+
+common_voice_de_21922827.wav eins 
+
+common_voice_de_21922828.wav neun 
+
+common_voice_de_21922834.wav zwei nein 
+
+common_voice_de_21922843.wav sechs sechs 
+
+common_voice_de_21922844.wav drei drei 
+
+common_voice_de_21923079.wav fünf 
+
+common_voice_de_21923080.wav sieben 
+
+common_voice_de_21923081.wav sechs 
+
+common_voice_de_21923082.wav vier 
+
+common_voice_de_21923083.wav drei nein 
+
+common_voice_de_21923094.wav zwei nein 
+
+common_voice_de_21923095.wav acht 
+
+common_voice_de_21923096.wav eins 
+
+common_voice_de_21923125.wav nein 
+
+common_voice_de_21923127.wav neun 
+
+common_voice_de_21924077.wav neun 
+
+common_voice_de_21924079.wav zwei eins 
+
+common_voice_de_21924086.wav drei eins 
+
+common_voice_de_21924087.wav acht 
+
+common_voice_de_21924088.wav sechs 
+
+common_voice_de_21924089.wav sieben 
+
+common_voice_de_21924091.wav eins 
+
+common_voice_de_21924096.wav vier 
+
+common_voice_de_21924098.wav nein 
+
+common_voice_de_21924099.wav zwei acht 
+
+common_voice_de_21924737.wav neun 
+
+common_voice_de_21924745.wav drei 
+
+common_voice_de_21924746.wav vier 
+
+common_voice_de_21924747.wav nein 
+
+common_voice_de_21924748.wav sieben 
+
+common_voice_de_21924749.wav acht 
+
+common_voice_de_21924757.wav zwei 
+
+common_voice_de_21924758.wav sechs 
+
+common_voice_de_21924764.wav fünf 
+
+common_voice_de_21924766.wav eins 
+
+common_voice_de_21925028.wav zwei vier eins 
+
+common_voice_de_21925029.wav vier acht 
+
+common_voice_de_21925030.wav fünf 
+
+common_voice_de_21925033.wav fünf sechs zwei 
+
+common_voice_de_21925059.wav eins 
+
+common_voice_de_21925060.wav nein 
+
+common_voice_de_21925061.wav sieben acht 
+
+common_voice_de_21925065.wav acht 
+
+common_voice_de_21925066.wav drei 
+
+common_voice_de_21925068.wav neun 
+
+common_voice_de_21926579.wav sechs 
+
+common_voice_de_21926580.wav neun 
+
+common_voice_de_21926581.wav sieben 
+
+common_voice_de_21926584.wav nein 
+
+common_voice_de_21926593.wav drei 
+
+common_voice_de_21926594.wav eins 
+
+common_voice_de_21926597.wav acht 
+
+common_voice_de_21926612.wav fünf 
+
+common_voice_de_21926613.wav vier 
+
+common_voice_de_21926615.wav zwei 
+
+common_voice_de_21927809.wav drei vier 
+
+common_voice_de_21927811.wav vier 
+
+common_voice_de_21927812.wav nein 
+
+common_voice_de_21927813.wav neun 
+
+common_voice_de_21927815.wav eins 
+
+common_voice_de_21927817.wav zwei 
+
+common_voice_de_21927818.wav sieben 
+
+common_voice_de_21927824.wav sechs 
+
+common_voice_de_21927825.wav acht 
+
+common_voice_de_21927827.wav fünf 
+
+common_voice_de_21928721.wav nein 
+
+common_voice_de_21928722.wav fünf fünf 
+
+common_voice_de_21928728.wav sieben 
+
+common_voice_de_21928731.wav vier 
+
+common_voice_de_21928732.wav acht 
+
+common_voice_de_21928733.wav drei 
+
+common_voice_de_21928734.wav sechs 
+
+common_voice_de_21928735.wav zwei drei 
+
+common_voice_de_21928736.wav eins 
+
+common_voice_de_21930116.wav acht 
+
+common_voice_de_21930118.wav drei drei 
+
+common_voice_de_21930119.wav zwei drei 
+
+common_voice_de_21930120.wav fünf 
+
+common_voice_de_21930122.wav eins 
+
+common_voice_de_21930124.wav nein 
+
+common_voice_de_21930125.wav sieben 
+
+common_voice_de_21930126.wav neun 
+
+common_voice_de_21930128.wav vier nein 
+
+common_voice_de_21930129.wav sechs 
+
+common_voice_de_21930307.wav zwei 
+
+common_voice_de_21930308.wav drei 
+
+common_voice_de_21930309.wav eins 
+
+common_voice_de_21930317.wav vier 
+
+common_voice_de_21930318.wav sieben 
+
+common_voice_de_21930319.wav neun 
+
+common_voice_de_21930320.wav fünf 
+
+common_voice_de_21930322.wav sechs 
+
+common_voice_de_21930323.wav acht 
+
+common_voice_de_21930325.wav nein 
+
+common_voice_de_21931010.wav sechs 
+
+common_voice_de_21931012.wav sieben 
+
+common_voice_de_21931013.wav nein 
+
+common_voice_de_21931014.wav acht 
+
+common_voice_de_21931015.wav eins 
+
+common_voice_de_21931016.wav zwei 
+
+common_voice_de_21931017.wav drei acht 
+
+common_voice_de_21931018.wav vier 
+
+common_voice_de_21931019.wav neun 
+
+common_voice_de_21931020.wav fünf 
+
+common_voice_de_21932177.wav acht 
+
+common_voice_de_21932180.wav sieben 
+
+common_voice_de_21932183.wav sechs 
+
+common_voice_de_21932184.wav zwei 
+
+common_voice_de_21932195.wav drei 
+
+common_voice_de_21932196.wav vier sechs 
+
+common_voice_de_21932197.wav nein 
+
+common_voice_de_21932200.wav eins 
+
+common_voice_de_21932204.wav fünf 
+
+common_voice_de_21932236.wav neun 
+
+common_voice_de_21932513.wav sieben 
+
+common_voice_de_21932514.wav vier 
+
+common_voice_de_21932517.wav neun 
+
+common_voice_de_21932518.wav drei drei 
+
+common_voice_de_21932519.wav acht 
+
+common_voice_de_21932520.wav nein 
+
+common_voice_de_21932521.wav sechs 
+
+common_voice_de_21932528.wav eins 
+
+common_voice_de_21932530.wav zwei 
+
+common_voice_de_21932531.wav fünf 
+
+common_voice_de_21933837.wav acht 
+
+common_voice_de_21933840.wav vier 
+
+common_voice_de_21933841.wav eins 
+
+common_voice_de_21933842.wav neun 
+
+common_voice_de_21933843.wav sieben 
+
+common_voice_de_21933844.wav drei 
+
+common_voice_de_21933845.wav sechs 
+
+common_voice_de_21933846.wav fünf 
+
+common_voice_de_21933847.wav nein 
+
+common_voice_de_21933848.wav zwei nein 
+
+common_voice_de_21935538.wav acht vier nein nein fünf 
+
+common_voice_de_21935539.wav drei drei 
+
+common_voice_de_21935541.wav fünf 
+
+common_voice_de_21935542.wav eins 
+
+common_voice_de_21935558.wav acht 
+
+common_voice_de_21935560.wav zwei drei 
+
+common_voice_de_21935561.wav sieben 
+
+common_voice_de_21935562.wav neun 
+
+common_voice_de_21935574.wav sechs 
+
+common_voice_de_21935575.wav nein 
+
+common_voice_de_21935897.wav neun 
+
+common_voice_de_21935898.wav drei 
+
+common_voice_de_21935900.wav acht 
+
+common_voice_de_21935901.wav nein 
+
+common_voice_de_21935903.wav fünf 
+
+common_voice_de_21935904.wav zwei drei 
+
+common_voice_de_21935906.wav sieben 
+
+common_voice_de_21935907.wav sechs 
+
+common_voice_de_21935909.wav eins 
+
+common_voice_de_21935910.wav vier 
+
+common_voice_de_21945917.wav sechs 
+
+common_voice_de_21945919.wav eins 
+
+common_voice_de_21945922.wav sieben 
+
+common_voice_de_21945924.wav neun 
+
+common_voice_de_21945946.wav nein 
+
+common_voice_de_21945949.wav acht 
+
+common_voice_de_21945951.wav drei acht 
+
+common_voice_de_21945952.wav fünf 
+
+common_voice_de_21945976.wav zwei drei 
+
+common_voice_de_21945978.wav vier drei 
+
+common_voice_de_21946199.wav eins 
+
+common_voice_de_21946201.wav acht 
+
+common_voice_de_21946202.wav sieben 
+
+common_voice_de_21946203.wav zwei 
+
+common_voice_de_21946205.wav nein 
+
+common_voice_de_21946206.wav sechs 
+
+common_voice_de_21946207.wav fünf 
+
+common_voice_de_21946213.wav vier 
+
+common_voice_de_21946214.wav drei 
+
+common_voice_de_21946216.wav neun vier 
+
+common_voice_de_21947195.wav zwei nein 
+
+common_voice_de_21947197.wav eins 
+
+common_voice_de_21947198.wav neun 
+
+common_voice_de_21947199.wav vier 
+
+common_voice_de_21947290.wav fünf zwei drei 
+
+common_voice_de_21947292.wav vier vier 
+
+common_voice_de_21947293.wav fünf 
+
+common_voice_de_21947294.wav eins 
+
+common_voice_de_21947295.wav nein 
+
+common_voice_de_21947302.wav neun 
+
+common_voice_de_21947306.wav sechs 
+
+common_voice_de_21947323.wav vier acht 
+
+common_voice_de_21947326.wav sieben 
+
+common_voice_de_21947327.wav drei 
+
+common_voice_de_21947347.wav drei nein 
+
+common_voice_de_21947348.wav sieben 
+
+common_voice_de_21947351.wav acht 
+
+common_voice_de_21947377.wav fünf 
+
+common_voice_de_21947379.wav nein 
+
+common_voice_de_21947380.wav sechs 
+
+common_voice_de_21947715.wav vier 
+
+common_voice_de_21947718.wav drei drei 
+
+common_voice_de_21947719.wav acht 
+
+common_voice_de_21947736.wav nein 
+
+common_voice_de_21947738.wav fünf 
+
+common_voice_de_21947739.wav neun 
+
+common_voice_de_21947755.wav zwei 
+
+common_voice_de_21947756.wav sechs 
+
+common_voice_de_21947757.wav sieben 
+
+common_voice_de_21947758.wav eins 
+
+common_voice_de_21948508.wav fünf 
+
+common_voice_de_21948509.wav vier acht 
+
+common_voice_de_21948510.wav eins 
+
+common_voice_de_21948513.wav acht 
+
+common_voice_de_21948514.wav drei 
+
+common_voice_de_21948525.wav sechs 
+
+common_voice_de_21948527.wav sieben 
+
+common_voice_de_21948542.wav zwei 
+
+common_voice_de_21948544.wav nein 
+
+common_voice_de_21948546.wav neun 
+
+common_voice_de_21949633.wav acht 
+
+common_voice_de_21949635.wav drei zwei nein 
+
+common_voice_de_21949636.wav eins 
+
+common_voice_de_21949639.wav nein 
+
+common_voice_de_21949660.wav drei drei 
+
+common_voice_de_21949662.wav fünf 
+
+common_voice_de_21949664.wav sechs 
+
+common_voice_de_21949711.wav vier nein 
+
+common_voice_de_21949712.wav nein neun 
+
+common_voice_de_21949715.wav sieben 
+
+common_voice_de_21950827.wav zwei 
+
+common_voice_de_21950829.wav acht 
+
+common_voice_de_21950841.wav fünf 
+
+common_voice_de_21950842.wav sieben 
+
+common_voice_de_21950843.wav drei 
+
+common_voice_de_21950845.wav eins 
+
+common_voice_de_21950852.wav sechs 
+
+common_voice_de_21950853.wav nein 
+
+common_voice_de_21950854.wav vier 
+
+common_voice_de_21950855.wav neun 
+
+common_voice_de_21951338.wav acht drei 
+
+common_voice_de_21951339.wav zwei 
+
+common_voice_de_21951341.wav vier 
+
+common_voice_de_21951342.wav sieben 
+
+common_voice_de_21951356.wav fünf 
+
+common_voice_de_21951358.wav sechs 
+
+common_voice_de_21951360.wav eins 
+
+common_voice_de_21951361.wav nein 
+
+common_voice_de_21951363.wav acht 
+
+common_voice_de_21951364.wav neun 
+
+common_voice_de_21951418.wav nein 
+
+common_voice_de_21951420.wav fünf 
+
+common_voice_de_21951421.wav neun 
+
+common_voice_de_21951663.wav sechs 
+
+common_voice_de_21951671.wav vier 
+
+common_voice_de_21951674.wav neun 
+
+common_voice_de_21951756.wav drei nein 
+
+common_voice_de_21951758.wav fünf 
+
+common_voice_de_21951760.wav sieben 
+
+common_voice_de_21951765.wav nein 
+
+common_voice_de_21951872.wav zwei nein 
+
+common_voice_de_21951875.wav eins 
+
+common_voice_de_21951877.wav acht 
+
+common_voice_de_21951980.wav vier 
+
+common_voice_de_21951991.wav drei 
+
+common_voice_de_21951998.wav zwei 
+
+common_voice_de_21952138.wav sechs 
+
+common_voice_de_21952144.wav acht 
+
+common_voice_de_21952146.wav eins 
+
+common_voice_de_21952147.wav sieben 
+
+common_voice_de_21952987.wav sieben 
+
+common_voice_de_21952988.wav sechs 
+
+common_voice_de_21952989.wav neun 
+
+common_voice_de_21952990.wav acht 
+
+common_voice_de_21952991.wav zwei drei 
+
+common_voice_de_21953001.wav vier acht 
+
+common_voice_de_21953002.wav eins 
+
+common_voice_de_21953006.wav drei 
+
+common_voice_de_21953007.wav nein 
+
+common_voice_de_21953009.wav fünf 
+
+common_voice_de_21953621.wav eins 
+
+common_voice_de_21953624.wav neun 
+
+common_voice_de_21953628.wav fünf 
+
+common_voice_de_21953644.wav vier 
+
+common_voice_de_21953645.wav acht 
+
+common_voice_de_21953650.wav zwei 
+
+common_voice_de_21953689.wav sechs 
+
+common_voice_de_21953690.wav nein 
+
+common_voice_de_21953691.wav drei 
+
+common_voice_de_21953692.wav sieben 
+
+common_voice_de_21954032.wav nein sieben 
+
+common_voice_de_21954034.wav sieben drei sieben 
+
+common_voice_de_21954077.wav sieben acht sieben 
+
+common_voice_de_21954080.wav sieben zwei sieben 
+
+common_voice_de_21954081.wav sieben neun sieben 
+
+common_voice_de_21954082.wav sieben fünf sieben 
+
+common_voice_de_21954136.wav sieben eins sieben 
+
+common_voice_de_21954139.wav sieben 
+
+common_voice_de_21954140.wav sieben sechs sieben 
+
+common_voice_de_21954141.wav sieben vier sieben 
+
+common_voice_de_21954420.wav acht 
+
+common_voice_de_21954422.wav nein 
+
+common_voice_de_21954423.wav fünf 
+
+common_voice_de_21954424.wav drei 
+
+common_voice_de_21954438.wav vier 
+
+common_voice_de_21954440.wav neun 
+
+common_voice_de_21954441.wav sieben 
+
+common_voice_de_21954445.wav eins 
+
+common_voice_de_21954462.wav zwei 
+
+common_voice_de_21954466.wav sechs 
+
+common_voice_de_21954855.wav zwei 
+
+common_voice_de_21954858.wav vier 
+
+common_voice_de_21954859.wav acht 
+
+common_voice_de_21955034.wav nein 
+
+common_voice_de_21955035.wav drei 
+
+common_voice_de_21955037.wav fünf vier 
+
+common_voice_de_21955038.wav neun 
+
+common_voice_de_21955203.wav sieben 
+
+common_voice_de_21955204.wav sieben sechs 
+
+common_voice_de_21955205.wav eins 
+
+common_voice_de_21955949.wav sechs drei 
+
+common_voice_de_21955952.wav drei fünf 
+
+common_voice_de_21955954.wav vier 
+
+common_voice_de_21955955.wav eins drei 
+
+common_voice_de_21956077.wav neun sechs 
+
+common_voice_de_21956079.wav sieben eins 
+
+common_voice_de_21956083.wav fünf 
+
+common_voice_de_21956087.wav zwei sechs 
+
+common_voice_de_21956098.wav sechs nein 
+
+common_voice_de_21956188.wav neun 
+
+common_voice_de_21956189.wav sieben 
+
+common_voice_de_21956190.wav fünf 
+
+common_voice_de_21956203.wav nein 
+
+common_voice_de_21956204.wav zwei 
+
+common_voice_de_21956205.wav eins 
+
+common_voice_de_21956206.wav drei 
+
+common_voice_de_21956227.wav acht 
+
+common_voice_de_21956228.wav vier 
+
+common_voice_de_21956232.wav sechs 
+
+common_voice_de_21956257.wav acht 
+
+common_voice_de_21956258.wav neun 
+
+common_voice_de_21956259.wav nein 
+
+common_voice_de_21956261.wav vier 
+
+common_voice_de_21956327.wav fünf 
+
+common_voice_de_21956328.wav drei eins drei 
+
+common_voice_de_21956331.wav drei sieben 
+
+common_voice_de_21956333.wav drei drei 
+
+common_voice_de_21956334.wav drei acht 
+
+common_voice_de_21956340.wav acht 
+
+common_voice_de_21956343.wav sechs 
+
+common_voice_de_21956367.wav neun 
+
+common_voice_de_21956368.wav zwei 
+
+common_voice_de_21956370.wav drei 
+
+common_voice_de_21956371.wav vier 
+
+common_voice_de_21956373.wav nein 
+
+common_voice_de_21956383.wav eins 
+
+common_voice_de_21956385.wav sieben 
+
+common_voice_de_21956387.wav fünf 
+
+common_voice_de_21956394.wav drei nein 
+
+common_voice_de_21956395.wav drei sechs 
+
+common_voice_de_21956396.wav neun 
+
+common_voice_de_21956438.wav drei vier nein 
+
+common_voice_de_21956439.wav zwei sieben 
+
+common_voice_de_21956622.wav vier 
+
+common_voice_de_21956623.wav sechs 
+
+common_voice_de_21956624.wav neun 
+
+common_voice_de_21956626.wav sieben 
+
+common_voice_de_21956697.wav fünf 
+
+common_voice_de_21956699.wav drei 
+
+common_voice_de_21956702.wav sechs 
+
+common_voice_de_21956708.wav eins 
+
+common_voice_de_21956718.wav zwei 
+
+common_voice_de_21956720.wav sieben 
+
+common_voice_de_21956808.wav zwei 
+
+common_voice_de_21956811.wav fünf 
+
+common_voice_de_21956817.wav eins 
+
+common_voice_de_21956821.wav acht 
+
+common_voice_de_21956853.wav nein 
+
+common_voice_de_21956855.wav drei 
+
+common_voice_de_21957533.wav nein 
+
+common_voice_de_21957550.wav drei acht 
+
+common_voice_de_21957558.wav fünf 
+
+common_voice_de_21957568.wav acht 
+
+common_voice_de_21957575.wav zwei 
+
+common_voice_de_21957584.wav neun 
+
+common_voice_de_21957589.wav vier 
+
+common_voice_de_21957629.wav sieben 
+
+common_voice_de_21957637.wav eins 
+
+common_voice_de_21957644.wav sechs 
+
+common_voice_de_21958679.wav neun 
+
+common_voice_de_21958681.wav sieben 
+
+common_voice_de_21958682.wav drei 
+
+common_voice_de_21958683.wav sechs 
+
+common_voice_de_21958708.wav nein 
+
+common_voice_de_21958710.wav zwei 
+
+common_voice_de_21958711.wav eins 
+
+common_voice_de_21958713.wav fünf 
+
+common_voice_de_21958751.wav vier 
+
+common_voice_de_21958752.wav acht 
+
+common_voice_de_21959654.wav drei nein 
+
+common_voice_de_21959656.wav fünf 
+
+common_voice_de_21959658.wav nein 
+
+common_voice_de_21959681.wav vier drei 
+
+common_voice_de_21959683.wav neun 
+
+common_voice_de_21959685.wav eins 
+
+common_voice_de_21959688.wav zwei drei 
+
+common_voice_de_21959694.wav sieben 
+
+common_voice_de_21959695.wav sechs 
+
+common_voice_de_21959696.wav acht 
+
+common_voice_de_21959707.wav sieben 
+
+common_voice_de_21959709.wav nein 
+
+common_voice_de_21959710.wav acht 
+
+common_voice_de_21959712.wav drei 
+
+common_voice_de_21959713.wav sechs 
+
+common_voice_de_21959719.wav neun 
+
+common_voice_de_21959720.wav fünf 
+
+common_voice_de_21959722.wav zwei vier 
+
+common_voice_de_21959739.wav vier 
+
+common_voice_de_21959741.wav eins 
+
+common_voice_de_21960420.wav sechs drei 
+
+common_voice_de_21960426.wav neun 
+
+common_voice_de_21960430.wav sieben 
+
+common_voice_de_21960471.wav drei drei 
+
+common_voice_de_21960472.wav eins 
+
+common_voice_de_21960473.wav vier acht 
+
+common_voice_de_21960474.wav zwei acht 
+
+common_voice_de_21960475.wav fünf 
+
+common_voice_de_21960808.wav drei 
+
+common_voice_de_21963523.wav sechs 
+
+common_voice_de_21963524.wav neun 
+
+common_voice_de_21963525.wav sieben 
+
+common_voice_de_21963526.wav vier 
+
+common_voice_de_21963545.wav zwei vier 
+
+common_voice_de_21963546.wav nein 
+
+common_voice_de_21963547.wav drei 
+
+common_voice_de_21963548.wav fünf 
+
+common_voice_de_21963612.wav acht 
+
+common_voice_de_21963616.wav eins 
+
+common_voice_de_21964251.wav neun 
+
+common_voice_de_21964253.wav nein 
+
+common_voice_de_21964255.wav vier 
+
+common_voice_de_21964258.wav fünf 
+
+common_voice_de_21964259.wav sechs 
+
+common_voice_de_21964261.wav vier 
+
+common_voice_de_21964264.wav fünf 
+
+common_voice_de_21964303.wav sechs 
+
+common_voice_de_21964306.wav sieben 
+
+common_voice_de_21964310.wav eins 
+
+common_voice_de_21964320.wav neun 
+
+common_voice_de_21964322.wav sieben 
+
+common_voice_de_21964324.wav drei 
+
+common_voice_de_21964326.wav nein 
+
+common_voice_de_21964369.wav vier 
+
+common_voice_de_21964371.wav zwei drei 
+
+common_voice_de_21964375.wav acht 
+
+common_voice_de_21964377.wav eins 
+
+common_voice_de_21964396.wav sieben 
+
+common_voice_de_21964398.wav zwei 
+
+common_voice_de_21964399.wav nein 
+
+common_voice_de_21964401.wav eins 
+
+common_voice_de_21964402.wav neun 
+
+common_voice_de_21964406.wav drei 
+
+common_voice_de_21964407.wav zwei eins 
+
+common_voice_de_21964439.wav drei 
+
+common_voice_de_21964440.wav sechs 
+
+common_voice_de_21964441.wav fünf 
+
+common_voice_de_21964442.wav acht 
+
+common_voice_de_21964582.wav acht 
+
+common_voice_de_21965354.wav sieben 
+
+common_voice_de_21965355.wav acht 
+
+common_voice_de_21965384.wav nein 
+
+common_voice_de_21965389.wav zwei 
+
+common_voice_de_21965391.wav sechs 
+
+common_voice_de_21965393.wav neun 
+
+common_voice_de_21965415.wav fünf 
+
+common_voice_de_21965416.wav eins 
+
+common_voice_de_21965417.wav drei zwei 
+
+common_voice_de_21965419.wav vier 
+
+common_voice_de_21967722.wav vier 
+
+common_voice_de_21967724.wav sechs 
+
+common_voice_de_21967726.wav neun 
+
+common_voice_de_21967789.wav acht 
+
+common_voice_de_21967790.wav acht zwei nein 
+
+common_voice_de_21967792.wav fünf 
+
+common_voice_de_21967796.wav nein 
+
+common_voice_de_21967860.wav drei nein 
+
+common_voice_de_21967861.wav acht sieben 
+
+common_voice_de_21967862.wav eins 
+
+common_voice_de_21969680.wav sechs 
+
+common_voice_de_21969682.wav zwei 
+
+common_voice_de_21969683.wav fünf 
+
+common_voice_de_21969684.wav sieben 
+
+common_voice_de_21969685.wav acht 
+
+common_voice_de_21969900.wav eins 
+
+common_voice_de_21969903.wav nein 
+
+common_voice_de_21969939.wav neun 
+
+common_voice_de_21969943.wav drei acht 
+
+common_voice_de_21969951.wav vier 
+
+common_voice_de_21970682.wav vier 
+
+common_voice_de_21970683.wav eins 
+
+common_voice_de_21970684.wav fünf 
+
+common_voice_de_21971020.wav drei 
+
+common_voice_de_21971021.wav sieben 
+
+common_voice_de_21971025.wav nein 
+
+common_voice_de_21971058.wav acht 
+
+common_voice_de_21971059.wav neun 
+
+common_voice_de_21971060.wav vier 
+
+common_voice_de_21971076.wav zwei drei 
+
+common_voice_de_21971077.wav acht 
+
+common_voice_de_21971078.wav neun 
+
+common_voice_de_21971079.wav sechs 
+
+common_voice_de_21971155.wav eins 
+
+common_voice_de_21971157.wav zwei acht 
+
+common_voice_de_21971158.wav fünf 
+
+common_voice_de_21971244.wav nein 
+
+common_voice_de_21971246.wav drei 
+
+common_voice_de_21971247.wav sieben 
+
+common_voice_de_21971248.wav sechs 
+
+common_voice_de_21972152.wav nein 
+
+common_voice_de_21972157.wav eins 
+
+common_voice_de_21972158.wav zwei acht 
+
+common_voice_de_21972200.wav vier 
+
+common_voice_de_21972203.wav sieben 
+
+common_voice_de_21972205.wav neun 
+
+common_voice_de_21972206.wav acht 
+
+common_voice_de_21972218.wav drei 
+
+common_voice_de_21972219.wav sechs 
+
+common_voice_de_21972220.wav fünf 
+
+common_voice_de_21972569.wav vier 
+
+common_voice_de_21972570.wav zwei 
+
+common_voice_de_21972573.wav fünf 
+
+common_voice_de_21972765.wav neun 
+
+common_voice_de_21972766.wav eins 
+
+common_voice_de_21972768.wav acht 
+
+common_voice_de_21972770.wav nein 
+
+common_voice_de_21972821.wav sieben 
+
+common_voice_de_21972824.wav drei drei 
+
+common_voice_de_21972827.wav sechs 
+
+common_voice_de_21977304.wav vier 
+
+common_voice_de_21977305.wav neun 
+
+common_voice_de_21977306.wav drei 
+
+common_voice_de_21977307.wav acht 
+
+common_voice_de_21977308.wav fünf 
+
+common_voice_de_21977348.wav zwei 
+
+common_voice_de_21977349.wav nein 
+
+common_voice_de_21977434.wav sechs 
+
+common_voice_de_21977435.wav sieben 
+
+common_voice_de_21977437.wav eins 
+
+common_voice_de_21978775.wav nein 
+
+common_voice_de_21978779.wav drei drei 
+
+common_voice_de_21978781.wav sechs 
+
+common_voice_de_21978824.wav zwei drei 
+
+common_voice_de_21978831.wav fünf 
+
+common_voice_de_21978839.wav sieben 
+
+common_voice_de_21978902.wav acht 
+
+common_voice_de_21978906.wav neun 
+
+common_voice_de_21978908.wav vier drei 
+
+common_voice_de_21979699.wav eins 
+
+common_voice_de_21979706.wav acht 
+
+common_voice_de_21979709.wav zwei 
+
+common_voice_de_21979714.wav neun 
+
+common_voice_de_21979723.wav fünf 
+
+common_voice_de_21979724.wav nein 
+
+common_voice_de_21979725.wav vier nein 
+
+common_voice_de_21979728.wav sechs 
+
+common_voice_de_21979779.wav drei 
+
+common_voice_de_21979780.wav sieben 
+
+common_voice_de_21981270.wav vier 
+
+common_voice_de_21981274.wav sieben 
+
+common_voice_de_21981275.wav neun 
+
+common_voice_de_21981432.wav nein 
+
+common_voice_de_21981629.wav vier 
+
+common_voice_de_21981641.wav zwei vier 
+
+common_voice_de_21981644.wav sieben 
+
+common_voice_de_21981682.wav drei drei 
+
+common_voice_de_21981684.wav acht 
+
+common_voice_de_21981686.wav eins 
+
+common_voice_de_21981688.wav fünf 
+
+common_voice_de_21981738.wav eins 
+
+common_voice_de_21981744.wav drei drei 
+
+common_voice_de_21981745.wav acht 
+
+common_voice_de_21981750.wav nein 
+
+common_voice_de_21981753.wav sechs 
+
+common_voice_de_21981758.wav neun 
+
+common_voice_de_21981824.wav fünf 
+
+common_voice_de_21981825.wav zwei drei 
+
+common_voice_de_21984056.wav neun 
+
+common_voice_de_21984059.wav acht 
+
+common_voice_de_21984063.wav drei nein 
+
+common_voice_de_21984066.wav sechs 
+
+common_voice_de_21984068.wav nein 
+
+common_voice_de_21984126.wav fünf 
+
+common_voice_de_21984137.wav eins 
+
+common_voice_de_21984227.wav sieben 
+
+common_voice_de_21984228.wav zwei vier 
+
+common_voice_de_21984232.wav vier 
+
+common_voice_de_21985666.wav sieben 
+
+common_voice_de_21985670.wav vier 
+
+common_voice_de_21985677.wav acht 
+
+common_voice_de_21985686.wav eins 
+
+common_voice_de_21985692.wav drei 
+
+common_voice_de_21985697.wav neun 
+
+common_voice_de_21985732.wav sechs 
+
+common_voice_de_21985736.wav zwei 
+
+common_voice_de_21985743.wav nein 
+
+common_voice_de_21985749.wav fünf 
+
+common_voice_de_21986345.wav sieben 
+
+common_voice_de_21986349.wav drei 
+
+common_voice_de_21986353.wav sechs 
+
+common_voice_de_21986447.wav eins 
+
+common_voice_de_21986451.wav neun 
+
+common_voice_de_21986454.wav vier 
+
+common_voice_de_21986459.wav nein 
+
+common_voice_de_21986462.wav fünf 
+
+common_voice_de_21986572.wav sieben 
+
+common_voice_de_21986574.wav fünf 
+
+common_voice_de_21986575.wav nein 
+
+common_voice_de_21986576.wav zwei drei 
+
+common_voice_de_21986642.wav acht 
+
+common_voice_de_21986643.wav zwei 
+

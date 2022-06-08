@@ -49,6 +49,7 @@ z ts
 tsch tʃ
 #	Matsch, 	match
 w v
+v v
 #	was, Vase		vanish
 ch x
 #	nach			Scottish loch

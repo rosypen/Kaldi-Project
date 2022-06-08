@@ -1,0 +1,170 @@
+common_voice_cy_22158277.wav un
+common_voice_cy_22158281.wav pump pedwar
+common_voice_cy_22158284.wav naw
+common_voice_cy_22158288.wav pump pump
+common_voice_cy_22158292.wav wyth dau
+common_voice_cy_22158300.wav chwech dau pump
+common_voice_cy_22158301.wav sero pump
+common_voice_cy_22158302.wav tri un
+common_voice_cy_22158305.wav pedwar saith
+common_voice_cy_22158308.wav wyth un
+common_voice_cy_22194466.wav pump sero
+common_voice_cy_22194476.wav tri un un
+common_voice_cy_22194485.wav pump pump
+common_voice_cy_22194503.wav chwech wyth
+common_voice_cy_22194511.wav un dau
+common_voice_cy_22194519.wav pump saith wyth un
+common_voice_cy_22194526.wav un wyth
+common_voice_cy_22194530.wav pedwar
+common_voice_cy_22194531.wav pump naw un
+common_voice_cy_22194534.wav pump pump
+common_voice_cy_22197812.wav chwech
+common_voice_cy_22197814.wav wyth
+common_voice_cy_22197817.wav dau
+common_voice_cy_22197820.wav naw pump pump
+common_voice_cy_22197821.wav un
+common_voice_cy_22197890.wav pump pedwar pump
+common_voice_cy_22197891.wav un tri
+common_voice_cy_22197892.wav pump pump
+common_voice_cy_22197893.wav saith pump
+common_voice_cy_22197894.wav pump sero pump
+common_voice_cy_22258874.wav pump naw wyth
+common_voice_cy_22258875.wav sero naw
+common_voice_cy_22258876.wav dau wyth
+common_voice_cy_22258877.wav pedwar
+common_voice_cy_22258878.wav wyth
+common_voice_cy_22258884.wav tri
+common_voice_cy_22258885.wav pump
+common_voice_cy_22258886.wav pump
+common_voice_cy_22258887.wav un
+common_voice_cy_22258888.wav saith
+common_voice_cy_22260762.wav pump saith saith
+common_voice_cy_22260763.wav un pump
+common_voice_cy_22260764.wav dau
+common_voice_cy_22260765.wav naw
+common_voice_cy_22260766.wav tri un naw
+common_voice_cy_22260767.wav chwech wyth
+common_voice_cy_22260768.wav pump un
+common_voice_cy_22260769.wav sero
+common_voice_cy_22260770.wav pedwar
+common_voice_cy_22260771.wav wyth
+common_voice_cy_22284650.wav un pump pump
+common_voice_cy_22284651.wav saith tri
+common_voice_cy_22284652.wav chwech
+common_voice_cy_22284653.wav wyth
+common_voice_cy_22284654.wav sero
+common_voice_cy_22284665.wav naw
+common_voice_cy_22284666.wav dau
+common_voice_cy_22284667.wav tri
+common_voice_cy_22284668.wav tri pedwar
+common_voice_cy_22284669.wav un tri un
+common_voice_cy_22287416.wav un naw
+common_voice_cy_22287417.wav pump tri
+common_voice_cy_22287418.wav sero sero
+common_voice_cy_22287419.wav chwech un
+common_voice_cy_22287421.wav tri wyth tri
+common_voice_cy_22287426.wav pump pump
+common_voice_cy_22287427.wav pump un
+common_voice_cy_22287428.wav pump dau
+common_voice_cy_22287429.wav saith
+common_voice_cy_22287430.wav pedwar pump
+common_voice_cy_22293923.wav wyth naw naw
+common_voice_cy_22293926.wav pump dau
+common_voice_cy_22293927.wav saith wyth pump
+common_voice_cy_22293930.wav dau un
+common_voice_cy_22293931.wav pedwar
+common_voice_cy_22293947.wav dau pump
+common_voice_cy_22293948.wav un wyth
+common_voice_cy_22293949.wav pump sero pump
+common_voice_cy_22293950.wav chwech
+common_voice_cy_22293951.wav pump tri dau
+common_voice_cy_22295144.wav pump
+common_voice_cy_22295145.wav pedwar
+common_voice_cy_22295146.wav sero
+common_voice_cy_22295147.wav un
+common_voice_cy_22295148.wav naw
+common_voice_cy_22295159.wav chwech
+common_voice_cy_22295160.wav dau
+common_voice_cy_22295161.wav saith
+common_voice_cy_22295162.wav wyth
+common_voice_cy_22295163.wav tri
+common_voice_cy_22374279.wav pedwar tri naw tri tri naw naw naw
+common_voice_cy_22374280.wav naw
+common_voice_cy_22374281.wav tri
+common_voice_cy_22374282.wav un wyth
+common_voice_cy_22374283.wav chwech un
+common_voice_cy_22374289.wav saith
+common_voice_cy_22374290.wav pedwar
+common_voice_cy_22374291.wav pump pump
+common_voice_cy_22374292.wav un un
+common_voice_cy_22374293.wav un sero
+common_voice_cy_22374585.wav pump pump
+common_voice_cy_22374587.wav pump
+common_voice_cy_22374589.wav chwech wyth
+common_voice_cy_22374590.wav un naw
+common_voice_cy_22374591.wav pump un
+common_voice_cy_22374634.wav pump tri
+common_voice_cy_22374635.wav pump pedwar
+common_voice_cy_22374636.wav wyth wyth
+common_voice_cy_22374637.wav pump sero
+common_voice_cy_22374638.wav saith
+common_voice_cy_22593987.wav un un
+common_voice_cy_22593988.wav un pump
+common_voice_cy_22593989.wav pump tri pump
+common_voice_cy_22593990.wav dau
+common_voice_cy_22593991.wav sero naw
+common_voice_cy_22594190.wav wyth
+common_voice_cy_22594191.wav pedwar saith
+common_voice_cy_22594192.wav chwech
+common_voice_cy_22594194.wav saith wyth
+common_voice_cy_22594195.wav naw
+common_voice_cy_22705697.wav un un saith dau
+common_voice_cy_22705698.wav pump sero dau
+common_voice_cy_22705699.wav un tri un
+common_voice_cy_22705700.wav dau un
+common_voice_cy_22705701.wav wyth
+common_voice_cy_22705723.wav pump chwech
+common_voice_cy_22705724.wav pump dau
+common_voice_cy_22705725.wav naw
+common_voice_cy_22705726.wav pump pump
+common_voice_cy_22705727.wav pump un
+common_voice_cy_23888440.wav pump
+common_voice_cy_23888441.wav un saith
+common_voice_cy_23888442.wav pump naw
+common_voice_cy_23888443.wav un un
+common_voice_cy_23888444.wav wyth
+common_voice_cy_23888445.wav pedwar
+common_voice_cy_23888446.wav tri
+common_voice_cy_23888447.wav pump sero un
+common_voice_cy_23888448.wav chwech
+common_voice_cy_23888449.wav dau
+common_voice_cy_23890563.wav un chwech
+common_voice_cy_23890564.wav dau
+common_voice_cy_23890565.wav naw
+common_voice_cy_23890566.wav saith
+common_voice_cy_23890567.wav sero
+common_voice_cy_23890568.wav wyth
+common_voice_cy_23890569.wav un
+common_voice_cy_23890570.wav un pedwar
+common_voice_cy_23890571.wav tri
+common_voice_cy_23890572.wav pedwar
+common_voice_cy_23893119.wav pump pump tri
+common_voice_cy_23893120.wav pump dau
+common_voice_cy_23893121.wav naw pump
+common_voice_cy_23893122.wav pedwar
+common_voice_cy_23893123.wav saith
+common_voice_cy_23893124.wav pump chwech
+common_voice_cy_23893125.wav un
+common_voice_cy_23893126.wav pump
+common_voice_cy_23893127.wav sero
+common_voice_cy_23893128.wav wyth
+common_voice_cy_23894623.wav tri chwech
+common_voice_cy_23894624.wav pedwar
+common_voice_cy_23894625.wav saith wyth
+common_voice_cy_23894626.wav sero wyth un
+common_voice_cy_23894627.wav naw un
+common_voice_cy_23894633.wav tri un un
+common_voice_cy_23894636.wav tri un
+common_voice_cy_23894640.wav un wyth
+common_voice_cy_23894641.wav pump
+common_voice_cy_23894642.wav pump dau un
