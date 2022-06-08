@@ -82,7 +82,7 @@ o oː
 #	Österreich, Möhre, adieu	somewhat like heard
 u ʊ
 #	und	push
-u uː
+# u uː
 #	Hut, Kuh	true
 ü ʏ
 #	müssen, Ypsilon	somewhat like cute
