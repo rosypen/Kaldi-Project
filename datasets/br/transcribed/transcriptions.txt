@@ -1,0 +1,46 @@
+common_voice_br_23872497.wav nann 
+
+common_voice_br_23872498.wav h seizh 
+
+common_voice_br_23872499.wav eizh h 
+
+common_voice_br_23872501.wav eizh 
+
+common_voice_br_23872503.wav pemp 
+
+common_voice_br_23872504.wav h daou 
+
+common_voice_br_23872505.wav tri daou 
+
+common_voice_br_23872506.wav unan 
+
+common_voice_br_23872517.wav nav 
+
+common_voice_br_23892735.wav eizh mann h c 
+
+common_voice_br_23994380.wav unan h 
+
+common_voice_br_23994432.wav h c 
+
+common_voice_br_23994454.wav tri 
+
+common_voice_br_23994456.wav h seizh 
+
+common_voice_br_23994522.wav mann 
+
+common_voice_br_23994553.wav nav nav 
+
+common_voice_br_23995118.wav tri daou 
+
+common_voice_br_23995171.wav tri unan 
+
+common_voice_br_23996449.wav pemp 
+
+common_voice_br_23996463.wav mann h 
+
+common_voice_br_23996922.wav eizh 
+
+common_voice_br_23996938.wav pevar 
+
+common_voice_br_26056770.wav pevar 
+
